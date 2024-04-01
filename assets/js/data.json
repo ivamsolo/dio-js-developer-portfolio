@@ -1,0 +1,59 @@
+{
+    "name": "Ivam Solo",
+    "photo": false,
+    "job": "",
+    "location": "Fortaleza - CE",
+    "phone": "",
+    "email": "ivamsolo.dev@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "HTML",
+          "logo": "./assets/logos/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "./assets/logos/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "./assets/logos/javascript.png"
+        },
+        {
+          "name": "Python",
+          "logo": "./assets/logos/python.png"
+        }
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (avançado)",
+      "Italiano (iniciante)"
+    ],
+    "portfolio": [
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+        "url": "https://github.com/ivamsolo/js-developer-pokedex",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+        "url": "https://github.com/ivamsolo/js-developer-portfolio",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": false,
+        "period": false,
+        "description": false
+      }
+    ]
+  }
